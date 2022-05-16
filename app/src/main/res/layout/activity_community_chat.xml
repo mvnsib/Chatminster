@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".communityChat">
+
+<include
+    android:id="@+id/toolbar"
+    layout="@layout/toolbar" />
+
+<ScrollView
+    android:id="@+id/scrollView"
+    android:layout_width="match_parent"
+    android:layout_height="622dp"
+    android:layout_marginTop="1dp"
+    app:layout_constraintBottom_toTopOf="@+id/communityText"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/toolbar">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textDisplay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:padding="10dp"
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/bubble"
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+</ScrollView>
+
+
+<Button
+    android:id="@+id/btn_sendCommunityMessage"
+    android:layout_width="97dp"
+    android:layout_height="47dp"
+    android:layout_marginEnd="8dp"
+    android:layout_marginBottom="4dp"
+    android:background="#ffdf00"
+    android:text="Pin"
+    android:textStyle="bold"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintTop_toTopOf="@+id/typeText"
+    app:layout_constraintVertical_bias="0.0" />
+
+<EditText
+    android:id="@+id/communityText"
+    android:layout_width="288dp"
+    android:layout_height="47dp"
+    android:layout_marginStart="16dp"
+    android:layout_marginBottom="4dp"
+    android:background="#FFFFFF"
+    android:ems="10"
+    android:hint="Pin a message"
+    android:inputType="textPersonName"
+    android:padding="10dip"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toStartOf="@+id/btn_sendMessage"
+    app:layout_constraintHorizontal_bias="0.0"
+    app:layout_constraintStart_toStartOf="parent" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

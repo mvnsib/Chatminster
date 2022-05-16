@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\menu_toolbar_menu.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\menu\\toolbar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_community_chat.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\layout\\activity_community_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_community_list.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\layout\\single_community_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_community_list.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\layout\\activity_community_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_receiver_bubble.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\layout\\receiver_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_change_password.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_user_list.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\layout\\single_user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_myprofile.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\layout\\activity_myprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_menu.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\layout\\activity_main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_message_feed.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\layout\\message_feed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_staff_list.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\layout\\activity_staff_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubble.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\drawable\\bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_senderbubble.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\drawable\\senderbubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tutor_student_chat.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\layout\\activity_tutor_student_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\Mansib Rahman\\Desktop\\FINAL\\Final Year Project\\app\\src\\main\\res\\layout\\toolbar.xml"
+    }
+]

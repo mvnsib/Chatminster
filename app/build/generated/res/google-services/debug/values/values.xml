@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1043758193138-dau5f8qpl7m1so70eubf8qkbiue6ol9t.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://chatminster.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1043758193138</string>
+    <string name="google_api_key" translatable="false">AIzaSyATzQm3TTa3uuFCgBB4H8VdEwGmc3fRJKA</string>
+    <string name="google_app_id" translatable="false">1:1043758193138:android:21418f3aac2197d99cf36b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyATzQm3TTa3uuFCgBB4H8VdEwGmc3fRJKA</string>
+    <string name="google_storage_bucket" translatable="false">chatminster.appspot.com</string>
+    <string name="project_id" translatable="false">chatminster</string>
+</resources>

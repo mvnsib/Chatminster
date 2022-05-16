@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1043758193138",
+    "firebase_url": "https://chatminster.firebaseio.com",
+    "project_id": "chatminster",
+    "storage_bucket": "chatminster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043758193138:android:21418f3aac2197d99cf36b",
+        "android_client_info": {
+          "package_name": "uk.ac.westminster.chatminster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043758193138-151opook5bv4d1lvaknddjuqa4jqtmtp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.ac.westminster.chatminster",
+            "certificate_hash": "d920f3cc09dcfad9b89c04aabe9495a10695e330"
+          }
+        },
+        {
+          "client_id": "1043758193138-dau5f8qpl7m1so70eubf8qkbiue6ol9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATzQm3TTa3uuFCgBB4H8VdEwGmc3fRJKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043758193138-dau5f8qpl7m1so70eubf8qkbiue6ol9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
